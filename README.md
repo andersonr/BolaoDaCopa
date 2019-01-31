@@ -1,6 +1,8 @@
-# BolaoDaCopa
+# BolaoDaChampions
 
-Este é o código fonte do aplicativo Easy Bolão disponível na [Play Store](https://play.google.com/store/apps/details?id=com.bolaodacopa).
+https://market.mashape.com/heisenbug/champions-league-live-scores
+
+Este é o código fonte do aplicativo Easy Champions disponível na [Play Store](link).
 
 ## Instalação para desenvolvedores
 ```
@@ -12,38 +14,6 @@ react-native run-android
 ```
 
 ```
-Lista de identificadores das seleções: 
+Lista de identificadores dos clubes: 
 
-1 - Russia
-2 - Arábia saudita
-3 - Egito
-4 - Uruguai
-5 - Portugal
-6 - Espanha
-7 - Marrocos
-8 - Irã
-9 - França
-10 - Austrália
-11 - Peru
-12 - Dinamarca
-13 - Argentina
-14 - Islandia
-15 - Croácia
-16 - Nigéria
-17 - Brasil
-18 - Suíça
-19 - Costa Rica
-20 - Sérvia
-21 - Alemanha
-22 - México
-23 - Suécia
-24 - Coréia do Sul
-25 - Bélgica
-26 - Panamá
-27 - Tunísia
-28 - Inglaterra
-29 - Polônia
-30 - Senegal
-31 - Colômbia
-32 - Japão
 ```
