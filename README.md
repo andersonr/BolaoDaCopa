@@ -1,6 +1,6 @@
 # BolaoDaChampions
 
-https://market.mashape.com/heisenbug/champions-league-live-scores
+http://www.footytube.com/openfooty/api_overview.php
 
 Este é o código fonte do aplicativo Easy Champions disponível na [Play Store](link).
 
